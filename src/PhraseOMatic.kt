@@ -5,5 +5,4 @@ fun main(args: Array<String>) {
 
     val wordArray3 = arrayOf("process", "paradigm", "solution", "portal", "vision")
 
-
 }
